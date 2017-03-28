@@ -1,8 +1,14 @@
-# Service Worker Starter Kit
+# ServiceWorker Walkthrough
 
 > Some practices for web applications by Using Service Worker. 
 
-## Usage
+## ServiceWorker Lifecycle
+
+![Lifecycle](./assets/images/lifecycle.png)
+
+via <https://developers.google.com/web/fundamentals/getting-started/primers/service-workers>.
+
+## Try it for the time being!
 
 ### 1.postMessage
 
@@ -18,4 +24,4 @@ The sample code is [here](./2.interceptFetch/)
 
 ## License
 
-MIT
+[MIT](./LICENSE)
